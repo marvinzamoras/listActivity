@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TOAST</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="item1_string">Say Hello!</string>
+    <string name="item2_string">They aint us coz they hate us!</string>
+    <string name="item3_string">Android is awesome!</string>
+    <string name="menu_title">Toast Menu</string>
+    <string name="i1">ITEM 1</string>
+    <string name="i2">ITEM 2</string>
+    <string name="i3">ITEM 3</string>
+
+</resources>
